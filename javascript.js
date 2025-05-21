@@ -75,7 +75,7 @@ Prøv å endre verdiene på variablene for å sikre at IF/ELSE-setningen din
 håndterer alle tilfeller korrekt.
 ******************************************************************************/
 
-let userName = "h"; //Skriv navn for å teste
+let userName = ""; //Skriv navn for å teste
 let userAge = 18; //Skriv age for å teste
 let userIsLoggedIn = false;
 let userIsBlocked = false;
